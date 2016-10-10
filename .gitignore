@@ -1,6 +1,10 @@
 # folder creating
-MDK-ARM/
+MDK-ARM/02_Emul/
+MDK-ARM/DebugConfig/
+
 # CubeMX prj
 02_Emul.ioc
+
+
 #
 .mxproject
