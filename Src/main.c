@@ -35,7 +35,7 @@
 #include "uart.h"
 
 /* USER CODE BEGIN Includes */
-
+// for git TEST new LINE
 /* USER CODE END Includes */
 
 /* Private variables ---------------------------------------------------------*/
